@@ -7,6 +7,9 @@ Specy is a small and simple spectroscopy system that relies on the Ocean Optics 
 The firmware of Specy is easy to understand and written in Arduino which allows to freely adapt the base code to specific needs. Adaptations of Specy have been used on UAVs, Tractors, in various lab application and as field instrument.
 
 
+![alt tag](https://cloud.githubusercontent.com/assets/1822383/13741052/4e4941e0-e9d4-11e5-80a7-82a017ebcfd9.JPG)
+
+
 
 Copyright (c) 2016, Forschungszentrum Jülich GmbH
 All rights reserved.
