@@ -9,7 +9,7 @@ The firmware of Specy is easy to understand and written in Arduino which allows 
 
 ![alt tag](https://cloud.githubusercontent.com/assets/1822383/13741052/4e4941e0-e9d4-11e5-80a7-82a017ebcfd9.JPG)
 
-
+Have a look in the documentation PDF for details on components and assembly.
 
 Copyright (c) 2016, Forschungszentrum Jülich GmbH
 All rights reserved.
